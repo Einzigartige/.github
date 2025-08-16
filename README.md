@@ -1,7 +1,6 @@
-# ![Einzigartige Logo]([https://via.placeholder.com/150](https://einzigartige.in/public/assets/img/logo.png))
-# Einzigartige - Web & App Development Company 🚀
+# ![Einzigartige Logo](https://einzigartige.in/public/assets/img/logo.png) Einzigartige - Web & App Development Company 🚀
 
-**Web & App Development | Software Solutions | IT Innovation**  
+**Web & App Development | Software Solutions**  
 🌐 Website: [https://einzigartige.in](https://einzigartige.in)  
 ⭐ Rating: 4.9/5 (Google Reviews)  
 📍 Locations: Ahmedabad & Surat, Gujarat, India  
