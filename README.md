@@ -1,4 +1,4 @@
-# ![Einzigartige Logo](https://via.placeholder.com/150)
+# ![Einzigartige Logo]([https://via.placeholder.com/150](https://einzigartige.in/public/assets/img/logo.png))
 # Einzigartige - Web & App Development Company 🚀
 
 **Web & App Development | Software Solutions | IT Innovation**  
