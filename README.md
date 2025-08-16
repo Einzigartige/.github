@@ -1,4 +1,4 @@
-# Einzigartige 🚀
+# Einzigartige - Web & App Development Company 🚀
 
 **Web & App Development | Software Solutions | IT Innovation**  
 Website: [https://einzigartige.in](https://einzigartige.in)
