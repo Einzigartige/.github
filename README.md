@@ -81,6 +81,11 @@ Ready to bring your **unique idea** to life? Let’s connect:
 
 - **Website:** [https://einzigartige.in](https://einzigartige.in)  
 - **Email:** contact@einzigartige.in  
+- **Phone:** +91-9773424748  
+
+**Locations:**  
+- Ahmedabad Office: Old City, Shahpur, Ahmedabad, Gujarat, India  
+- Surat Office: Surat, Gujarat, India  
 
 ---
 
