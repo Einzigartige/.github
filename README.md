@@ -1,7 +1,9 @@
 # Einzigartige - Web & App Development Company 🚀
 
 **Web & App Development | Software Solutions | IT Innovation**  
-Website: [https://einzigartige.in](https://einzigartige.in)
+Website: [https://einzigartige.in](https://einzigartige.in)  
+**Rating:** 4.9/5 (Google Reviews)  
+**Locations:** Ahmedabad & Surat, Gujarat, India  
 
 ---
 
@@ -10,6 +12,8 @@ Website: [https://einzigartige.in](https://einzigartige.in)
 Welcome to **Einzigartige**, where we transform ideas into **powerful digital solutions**. We are a team of passionate web and app development experts delivering **unique, high-quality, and scalable software** that drives business growth.  
 
 Our name, *"Einzigartige"*, is German for **"unique"**, reflecting our philosophy: every project is crafted with a **distinctive vision and meticulous attention to detail**.
+
+Surat-based Einzigartige is recognized as a popular provider of IT services. The company is structured to offer **effective results and customized solutions** for various businesses, addressing challenges in the information and technology sector. Every product is delivered with **high quality, cost-effectiveness, and on schedule**, based on client expectations.
 
 ---
 
@@ -60,13 +64,23 @@ Here are some of the types of projects we deliver:
 
 ---
 
+## Follow Us
+
+Stay connected with us on social media:  
+
+- **Instagram:** [@Einzigartige](https://www.instagram.com/Einzigartige/)  
+- **Facebook:** [Einzigartige](https://www.facebook.com/Einzigartige)  
+- **X (Twitter):** [@Einzigartige](https://twitter.com/Einzigartige)  
+- **LinkedIn:** [Einzigartige LinkedIn](https://www.linkedin.com/company/einzigartige/)  
+
+---
+
 ## Contact Us
 
 Ready to bring your **unique idea** to life? Let’s connect:
 
 - **Website:** [https://einzigartige.in](https://einzigartige.in)  
 - **Email:** contact@einzigartige.in  
-- **LinkedIn:** [Einzigartige LinkedIn](https://www.linkedin.com/company/einzigartige/)  
 
 ---
 
