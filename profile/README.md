@@ -70,7 +70,7 @@ We deliver projects like:
 
 ## Follow Us 🌟
 
-- **Instagram:** [@Einzigartige](https://www.instagram.com/Einzigartige/)  
+- **Instagram:** [@Einzigartige](https://www.instagram.com/einzigartigelive/)  
 - **Facebook:** [Einzigartige](https://www.facebook.com/Einzigartige)  
 - **X (Twitter):** [@Einzigartige](https://twitter.com/Einzigartige)  
 - **LinkedIn:** [Einzigartige LinkedIn](https://www.linkedin.com/company/einzigartige/)  
