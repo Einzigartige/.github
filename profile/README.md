@@ -1,4 +1,4 @@
-# ![Einzigartige Logo](https://einzigartige.in/public/assets/img/logo.png) Einzigartige - Web & App Development Company 🚀
+# <img src="https://github.com/user-attachments/assets/d02c8454-14c6-49b7-9a4f-834cf712bff3" width="40" alt="Einzigartige Logo"/> Einzigartige - Web & App Development Company 🚀
 
 **Web & App Development | Software Solutions**  
 🌐 Website: [https://einzigartige.in](https://einzigartige.in)  
